@@ -1,0 +1,17 @@
+{
+
+	int nome, x, y, z, a, c;
+	float b;
+
+	b = 2.0;
+
+	nome = 1;
+
+	a = 2;
+	c = 3;
+	y = 0;
+	x = 0;
+	z = 0;
+
+	a = b*2+c;
+}

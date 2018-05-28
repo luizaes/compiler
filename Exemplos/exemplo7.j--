@@ -1,0 +1,26 @@
+{
+
+	int a, b;
+	float c;
+
+	a = 1;
+	b = -2.0;
+	c = 2.5;
+
+	c = c + 2.7;
+
+	a = a - 1.5;
+
+	b = b / 1.1;
+
+	print("c: ");
+	print(c);
+
+	print("a: ");
+	print(a);
+
+	print("b: ");
+	print(b);
+
+
+}
